@@ -1,24 +1,28 @@
-# 💫 About Me:
+# 💫 About Me
 
-I’m **Shobhit Dixit**, an engineer, builder, deep tech enthusiast and graduate student currently pursuing my Master’s in Artificial Intelligence and Machine Learning at Drexel University.
+I’m **Shobhit Dixit**, an engineer, builder, deep tech enthusiast, and graduate student currently pursuing my Master’s in Artificial Intelligence and Machine Learning at Drexel University.
 
-I enjoy creating systems that do more than just run. I like building things that improve over time, solve real problems, and help people make smarter decisions. Whether it’s developing strong backend systems, applying machine learning to recommendations, or analyzing data to find patterns, I focus on projects that help me grow and build a strong career in technology. I’m always looking to learn new tools, explore new ideas, and take on challenges that make me a better engineer and thinker.
+I enjoy creating systems that do more than just run. I like building things that improve over time, solve real problems, and help people make smarter decisions. Whether it’s developing strong backend systems, applying machine learning to recommendations, or analyzing data to find patterns, I focus on projects that help me grow and build a strong career in technology. I’m always looking to learn new tools, explore new ideas, and take on challenges that make me a better developer and thinker.
 
 ---
 
 ## 🔧 What Drives Me
 
-- Building systems that are **useful, reliable, and smart**
-- Writing **clean, scalable code** across different tech stacks
-- Working on projects that involve **learning, data, and improvement**
-- Always asking: _"What can I do better, and how can I learn from this?"_
+- 🚀 Building systems that are **useful, reliable, and smart**  
+- 🧼 Writing **clean, scalable code** across different tech stacks  
+- 📊 Working on projects that involve **learning, data, and improvement**  
+- 🤔 Always asking: _"What can I do better, and how can I learn from this?"_
 
 ---
 
-- 📫 How to reach me:  
-  [LinkedIn](https://www.linkedin.com/in/shobhitdixit98/) | iamshobhit98@gmail.com
+## 📬 Get in Touch
 
-- 😄 Pronouns: He/Him 
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff&style=for-the-badge)](https://www.linkedin.com/in/shobhitdixit98/)
+[![Gmail](https://custom-icon-badges.demolab.com/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:iamshobhit98@gmail.com)
+
+---
+
+![He/Him](https://custom-icon-badges.demolab.com/badge/Pronouns-He/Him-0a66c2?logo=person&logoColor=white&style=for-the-badge)
 
 ---
 
@@ -35,6 +39,8 @@ I enjoy creating systems that do more than just run. I like building things that
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![CUDA](https://img.shields.io/badge/CUDA-%2300599C.svg?style=for-the-badge&logo=nvidia&logoColor=white)
 
+---
+
 ### 🧠 ML / DL & Data Science
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
@@ -44,20 +50,31 @@ I enjoy creating systems that do more than just run. I like building things that
 ![OpenCV](https://img.shields.io/badge/OpenCV-%23white.svg?style=for-the-badge&logo=opencv&logoColor=black)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![Matplotlib](https://custom-icon-badges.demolab.com/badge/Matplotlib-3776AB?logo=matplotlib&logoColor=white&style=for-the-badge)
+![Power BI](https://custom-icon-badges.demolab.com/badge/Power%20BI-F2C811?logo=powerbi&logoColor=white&style=for-the-badge)
 ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue)
-![Seaborn](https://img.shields.io/badge/Seaborn-Blue?style=for-the-badge&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/huggingface-%23FFCC00.svg?style=for-the-badge&logo=huggingface&logoColor=black)
+![MATLAB](https://custom-icon-badges.demolab.com/badge/MATLAB-0076A8?logo=mathworks&logoColor=white&style=for-the-badge)
+![Mathematica](https://custom-icon-badges.demolab.com/badge/Mathematica-DD1100?logo=wolframmathematica&logoColor=white&style=for-the-badge)
+![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)
 
+---
 
 ### ☁️ Cloud, DevOps & Platforms
 
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-Cloud-blue?style=for-the-badge)
+![AWS](https://custom-icon-badges.demolab.com/badge/AWS-FF9900?logo=aws&logoColor=white&style=for-the-badge)
+![Microsoft Azure](https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white&style=for-the-badge)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![OpenAPI](https://img.shields.io/badge/openapiinitiative-%23000000.svg?style=for-the-badge&logo=openapiinitiative&logoColor=white)
+![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![EasyOCR](https://custom-icon-badges.demolab.com/badge/EasyOCR-5A5A5A?logo=eye&logoColor=white&style=for-the-badge)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)
+
+---
 
 ### 🛠️ Backend & Analytics
 
@@ -72,20 +89,24 @@ I enjoy creating systems that do more than just run. I like building things that
 
 ---
 
-## 📜 Certifications
+## 📜 Professional Certificates
 
-- 🎓 Google Data Analytics
+- 🎓 Google Data Analytics  
 - 🎓 IBM Data Science – *Expected Sep 2025*
 
 ---
 
 
-## ✍️ Dev Quote
->  “Smart machines need smarter humans behind them — not just to build them, but to guide them.”  
-> – Anonymous
+## 🙌 Thank You for stopping by! 🚀
 
----
-
-Thanks for stopping by! 🚀  
 Let’s connect and **build intelligent, meaningful, and scalable solutions** together.
+
+> _"Strive not to be a success, but rather to be of value."_ — *Albert Einstein*
+
+<div align="center">
+  
+🌟 _Open to collaborations, conversations, and opportunities._  
+📈 _Always learning. Always building._  
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=100&section=footer"/>
 
