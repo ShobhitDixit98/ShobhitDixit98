@@ -39,7 +39,6 @@ I enjoy creating systems that do more than just run. I like building things that
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![CUDA](https://img.shields.io/badge/CUDA-%2300599C.svg?style=for-the-badge&logo=nvidia&logoColor=white)
 
----
 
 ### 🧠 ML / DL & Data Science
 
@@ -59,7 +58,6 @@ I enjoy creating systems that do more than just run. I like building things that
 ![Mathematica](https://custom-icon-badges.demolab.com/badge/Mathematica-DD1100?logo=wolframmathematica&logoColor=white&style=for-the-badge)
 ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)
 
----
 
 ### ☁️ Cloud, DevOps & Platforms
 
@@ -74,7 +72,6 @@ I enjoy creating systems that do more than just run. I like building things that
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)
 
----
 
 ### 🛠️ Backend & Analytics
 
