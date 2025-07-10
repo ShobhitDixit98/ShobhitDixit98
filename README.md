@@ -20,8 +20,6 @@ I enjoy creating systems that do more than just run. I like building things that
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff&style=for-the-badge)](https://www.linkedin.com/in/shobhitdixit98/)
 [![Gmail](https://custom-icon-badges.demolab.com/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:iamshobhit98@gmail.com)
 
----
-
 ![He/Him](https://custom-icon-badges.demolab.com/badge/Pronouns-He/Him-0a66c2?logo=person&logoColor=white&style=for-the-badge)
 
 ---
