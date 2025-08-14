@@ -87,8 +87,8 @@ I enjoy creating systems that do more than just run. I like building things that
 ## 📜 Professional Certificates
 
 - 🎓 Google Data Analytics  
-- 🎓 IBM Data Science – *Expected Sep 2025*
-
+- 🎓 IBM Data Science
+- 🎓 IBM Computer Vision & Image Processing
 ---
 
 
