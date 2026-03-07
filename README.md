@@ -35,7 +35,7 @@ I enjoy creating systems that do more than just run. I like building things that
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Bash](https://img.shields.io/badge/Bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![CUDA](https://img.shields.io/badge/CUDA-%2300599C.svg?style=for-the-badge&logo=nvidia&logoColor=white)
+
 
 
 ### 🧠 ML / DL & Data Science
