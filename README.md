@@ -2,15 +2,15 @@
 
 # 🧬 Shobhit Dixit
 
-### AI/ML Engineer | Production ML Systems | Generative AI Architect
+### AI/ML Engineer | Data Scientist | Production ML Systems | Generative AI Architect
 
 [![Email](https://img.shields.io/badge/Email-iamshobhit98%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:iamshobhit98@gmail.com)
 [![Phone](https://img.shields.io/badge/Phone-%2B1%20(215)%20452--9020-25D366?style=flat-square&logo=whatsapp&logoColor=white)](tel:+12154529020)
 [![Location](https://img.shields.io/badge/Location-PA%2C%20USA-0077B5?style=flat-square&logo=google-maps&logoColor=white)](https://www.google.com/maps?q=Pennsylvania,USA)
 
-![Profile Views](https://komarev.com/ghpvc/?username=dshobhit709-art&color=blueviolet&style=flat-square)
-![GitHub Followers](https://img.shields.io/github/followers/dshobhit709-art?style=flat-square&logo=github)
-![GitHub Stars](https://img.shields.io/github/stars/dshobhit709-art?style=flat-square&logo=github)
+![Profile Views](https://komarev.com/ghpvc/?username=ShobhitDixit98&color=blueviolet&style=flat-square)
+![GitHub Followers](https://img.shields.io/github/followers/ShobhitDixit98?style=flat-square&logo=github)
+![GitHub Stars](https://img.shields.io/github/stars/ShobhitDixit98?style=flat-square&logo=github)
 
 </div>
 
@@ -32,7 +32,28 @@ AI/ML Engineer with **nearly 4 years** of production experience architecting and
 - 📊 Working on projects that involve **learning, data, and improvement**  
 - 🤔 Always asking: _"What can I do better, and how can I learn from this?"_
 
----
+## 💼 Career Timeline
+
+```mermaid
+timeline
+    title Professional Journey
+    section Research Experience
+    Sep 2025 : Data Science Researcher
+             : Capital One Financial
+             : Transformer fraud detection
+             : RAG compliance systems
+    section Professional Experience
+    Aug 2020 : Software Engineer
+             : Mobileum
+             : Deployment and Migrating Production Systems
+             : On-site Client Management (Saudi Arabia)
+             : 30TB Telecom data
+    section Education
+    Mar 2026 : MS AI ML
+             : Drexel University
+    Jul 2021 : BTech IT
+             : KIET Ghaziabad
+```
 
 ## 📬 Get in Touch
 
