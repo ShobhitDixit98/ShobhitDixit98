@@ -39,8 +39,8 @@ timeline
     title Professional Journey
 
     section Research Experience
-    Sep 2025 : Data Science Research Assistant (Co-op)
-             : Drexel University
+    Sep 2025 : Data Science Research Assistant (AI/ML Co-op)
+             : Computational Social Science Lab, Drexel University
              : Large-scale Reddit Data Analysis (>2TB)
              : NLP & Toxicity Modeling (Detoxify, Transformers)
              : Community Behavior & Attrition Analysis
@@ -54,7 +54,6 @@ timeline
              : Automated data workflows and monitoring systems using Python & Bash
              : Processed and analyzed 30TB+ telecom data using SQL and Python for large-scale data insights
              : On-site Client Collaboration (Saudi Arabia) 
-
 
     section Projects
     2025 : AI Projects Portfolio
