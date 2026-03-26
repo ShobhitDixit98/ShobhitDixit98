@@ -50,15 +50,11 @@ timeline
     Oct 2021 : Software Engineer
              : Mobileum Technologies
              : Managed Production Systems (Linux/Solaris)
-             : Led Server Migrations with 98.8% Uptime
-             : Automated Monitoring using Python & Bash
-             : Reduced Network Congestion by 23%
-             : Processed 30TB+ Telecom Data Pipelines
-             : Built anomaly detection logic using statistical patterns & vector analysis
-             : Applied data-driven insights to optimize network performance and alerting
-             : Worked with SQL-based data analysis for large-scale telecom datasets
-             : Integrated CRM data with ML-driven targeting for 100K+ users
-             : On-site Client Collaboration (Saudi Arabia)
+             : Led Server Migrations and Deployements with 98.8% Uptime
+             : Automated data workflows and monitoring systems using Python & Bash
+             : Processed and analyzed 30TB+ telecom data using SQL and Python for large-scale data insights
+             : On-site Client Collaboration (Saudi Arabia) 
+
 
     section Projects
     2025 : AI Projects Portfolio
