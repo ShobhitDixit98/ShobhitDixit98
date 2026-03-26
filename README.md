@@ -238,20 +238,6 @@ timeline
 </td>
 <td width="25%" align="center" valign="top">
 
-### **📡 SYSTEMS & DATA ENGINEERING**
-
-<img src="https://img.shields.io/badge/Data_Engineering-Growing-2196F3?style=for-the-badge&labelColor=2C3E50"/>
-
-**CAPABILITIES**
-- ETL Pipelines
-- Data Pipelines (AWS, SQL)
-- Distributed Systems Basics
-- API Data Integration
-- Performance Optimization
-
-</td>
-<td width="25%" align="center" valign="top">
-
 ### **📊 DATA SCIENCE**
 
 <img src="https://img.shields.io/badge/Data_Science-Advanced-FF9800?style=for-the-badge&labelColor=2C3E50"/>
@@ -262,6 +248,20 @@ timeline
 - Statistical Analysis
 - Predictive Modeling
 - Data Visualization (Matplotlib, Power BI)
+
+</td>
+<td width="25%" align="center" valign="top">
+
+### **📡 SYSTEMS & DATA ENGINEERING**
+
+<img src="https://img.shields.io/badge/Data_Engineering-Growing-2196F3?style=for-the-badge&labelColor=2C3E50"/>
+
+**CAPABILITIES**
+- ETL Pipelines
+- Data Pipelines (AWS, SQL)
+- Distributed Systems Basics
+- API Data Integration
+- Performance Optimization
 
 </td>
 <td width="25%" align="center" valign="top">
