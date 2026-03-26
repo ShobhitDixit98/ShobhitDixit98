@@ -167,7 +167,6 @@ timeline
 **VERSION CONTROL**
 
 <img src="https://skillicons.dev/icons?i=git,github&theme=dark" />
-
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 
 </td>
@@ -239,30 +238,33 @@ timeline
 </td>
 <td width="25%" align="center" valign="top">
 
-### **📡 COMMUNICATION SYSTEMS**
+### **📡 SYSTEMS & DATA ENGINEERING**
 
-<img src="https://img.shields.io/badge/CCE_Fundamentals-Learning-2196F3?style=for-the-badge&labelColor=2C3E50"/>
+<img src="https://img.shields.io/badge/Data_Engineering-Growing-2196F3?style=for-the-badge&labelColor=2C3E50"/>
 
 **CAPABILITIES**
-- Network Protocols
-- Signal Processing
-- IoT Concepts
-- System Architecture
-- Communication Theory
+- ETL Pipelines
+- Data Pipelines (AWS, SQL)
+- Distributed Systems Basics
+- API Data Integration
+- Performance Optimization
 
 </td>
 <td width="25%" align="center" valign="top">
 
-### **🔐 CYBERSECURITY**
+### **📊 DATA SCIENCE**
 
-<img src="https://img.shields.io/badge/Security-Exploring-E74C3C?style=for-the-badge&labelColor=2C3E50"/>
+<img src="https://img.shields.io/badge/Data_Science-Advanced-FF9800?style=for-the-badge&labelColor=2C3E50"/>
 
 **CAPABILITIES**
-- Security Principles
-- Encryption Basics
-- Threat Analysis
-- Secure Coding
-- Authentication Systems
+- Data Cleaning & Preprocessing
+- Exploratory Data Analysis (EDA)
+- Statistical Analysis
+- Predictive Modeling
+- Data Visualization (Matplotlib, Power BI)
+
+</td>
+<td width="25%" align="center" valign="top">
 
 </td>
 </tr>
