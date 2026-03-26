@@ -39,7 +39,7 @@ timeline
     title Professional Journey
 
     section Research Experience
-    Sep 2025 : Data Science Researcher (AI/ML Co-op)
+    Mar 2026 : Data Science Researcher (AI/ML Co-op)
              : Computational Social Science Lab, Drexel University
              : Large-scale Reddit Data Analysis (>2TB)
              : NLP & Toxicity Modeling (Detoxify, Transformers)
@@ -47,7 +47,7 @@ timeline
              : Built Scalable Data Pipelines (HPC + Python)
 
     section Professional Experience
-    Oct 2021 : Software Engineer
+    Dec 2024 : Software Engineer
              : Mobileum Technologies
              : Managed Production Systems (Linux/Solaris)
              : Led Server Migrations and Deployements with 98.8% Uptime
@@ -56,11 +56,13 @@ timeline
              : On-site Client Collaboration (Saudi Arabia) 
 
     section Projects
-    2025 : AI Projects Portfolio
+    2025 : AI Projects
          : Credit Card Fraud Detection (Cost Optimization)
          : Deepfake Detection (EfficientNet, 95.9% Accuracy)
          : LabelSense AI (NLP + CV, 94.3% Accuracy)
          : MIQA - AI-powered Analytics Platform (AWS + LLMs)
+         : Enterprise AI Knowledge Assistant (LLM + RAG Platform) 
+         : Intelligent Document Processing System 
 
     section Education
     Mar 2026 : MS in Artificial Intelligence & Machine Learning
