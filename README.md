@@ -46,7 +46,7 @@ timeline
              : Community Behavior & Attrition Analysis
              : Built Scalable Data Pipelines (HPC + Python)
 
-    section Professional Experience
+    section Industry Experience
     Dec 2024 : Software Engineer
              : Mobileum Technologies
              : Managed Production Systems (Linux/Solaris)
@@ -66,7 +66,7 @@ timeline
 
     section Education
     Mar 2026 : MS in Artificial Intelligence & Machine Learning
-             : Drexel University (GPA: 3.92/4.0)
+             : Drexel University (GPA: 3.93/4.0)
 
     Jul 2021 : B.Tech in Information Technology
              : KIET Group of Institutions
