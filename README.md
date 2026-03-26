@@ -1,8 +1,27 @@
-# 💫 About Me
+<div align="center">
 
-I’m **Shobhit Dixit**, an engineer, builder, deep tech enthusiast, and graduate student currently pursuing my Master’s in Artificial Intelligence and Machine Learning at Drexel University.
+# 🧬 Shobhit Dixit
 
-I enjoy creating systems that do more than just run. I like building things that improve over time, solve real problems, and help people make smarter decisions. Whether it’s developing strong backend systems, applying machine learning to recommendations, or analyzing data to find patterns, I focus on projects that help me grow and build a strong career in technology. I’m always looking to learn new tools, explore new ideas, and take on challenges that make me a better developer and thinker.
+### AI/ML Engineer | Production ML Systems | Generative AI Architect
+
+[![Email](https://img.shields.io/badge/Email-iamshobhit98%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:iamshobhit98@gmail.com)
+[![Phone](https://img.shields.io/badge/Phone-%2B1%20(215)%20452--9020-25D366?style=flat-square&logo=whatsapp&logoColor=white)](tel:+12154529020)
+[![Location](https://img.shields.io/badge/Location-PA%2C%20USA-0077B5?style=flat-square&logo=google-maps&logoColor=white)](https://www.google.com/maps?q=Pennsylvania,USA)
+
+![Profile Views](https://komarev.com/ghpvc/?username=dshobhit709-art&color=blueviolet&style=flat-square)
+![GitHub Followers](https://img.shields.io/github/followers/dshobhit709-art?style=flat-square&logo=github)
+![GitHub Stars](https://img.shields.io/github/stars/dshobhit709-art?style=flat-square&logo=github)
+
+</div>
+
+---
+
+## 📊 Research Summary
+
+AI/ML Engineer with **nearly 4 years** of production experience architecting and deploying **scalable machine learning** and **generative AI solutions** across different domains. Specialized in building **enterprise-grade ML pipelines**, **real-time inference systems**, and **LLM-powered applications** using PyTorch, TensorFlow, and AWS infrastructure.
+
+
+**Current Focus:** Retrieval-Augmented Generation (RAG) architectures, semantic search systems, explainable AI frameworks, and containerized ML deployment strategies for enterprise applications.
 
 ---
 
