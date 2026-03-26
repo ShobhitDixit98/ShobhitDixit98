@@ -79,6 +79,200 @@ timeline
 
 ![He/Him](https://custom-icon-badges.demolab.com/badge/Pronouns-He/Him-0a66c2?logo=person&logoColor=white&style=for-the-badge)
 
+
+---
+
+<!-- Elite Tech Stack -->
+<div align="center">
+
+## 🛠️ **COMPREHENSIVE TECHNOLOGY ARSENAL**
+
+</div>
+
+<table width="100%">
+<tr>
+<td width="33%" valign="top">
+
+### **💻 PROGRAMMING LANGUAGES**
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,c,cpp,java&theme=dark" /><br/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+</p>
+
+**CORE COMPETENCIES**
+
+- 🎯 **Data Structures & Algorithms**
+- 🧮 **Object-Oriented Programming**
+- 💡 **Problem Solving & Logic**
+- 🏆 **Competitive Programming**
+
+</td>
+<td width="33%" valign="top">
+
+### **🌐 WEB TECHNOLOGIES**
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark" /><br/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+</p>
+
+**DEVELOPMENT SKILLS**
+
+- 🎨 **Responsive Web Design**
+- ⚛️ **Modern Frontend Frameworks**
+- 🔄 **RESTful API Integration**
+- 📱 **Cross-Platform Development**
+
+</td>
+<td width="33%" valign="top">
+
+### **🤖 AI/ML & EMERGING TECH**
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,flask,git&theme=dark" /><br/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/NLP-4CAF50?style=for-the-badge"/>
+</p>
+
+**AI/ML EXPERTISE**
+
+- 🧠 **Machine Learning Models**
+- 💬 **Natural Language Processing**
+- 🤖 **Chatbot Development**
+- 🔮 **Deep Learning Exploration**
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+### **🔧 DEVELOPMENT TOOLS & PLATFORMS**
+
+<table width="80%" align="center">
+<tr>
+<td width="25%" align="center">
+
+**VERSION CONTROL**
+
+<img src="https://skillicons.dev/icons?i=git,github&theme=dark" />
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+
+</td>
+<td width="25%" align="center">
+
+**IDEs & EDITORS**
+
+<img src="https://skillicons.dev/icons?i=vscode,pycharm&theme=dark" />
+
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+
+</td>
+<td width="25%" align="center">
+
+**DATABASES**
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark" />
+
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+</td>
+<td width="25%" align="center">
+
+**PLATFORMS**
+
+<img src="https://skillicons.dev/icons?i=linux,windows&theme=dark" />
+
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<!-- Skills Matrix -->
+<div align="center">
+
+## 📊 **COMPETENCY MATRIX**
+
+<table width="100%">
+<tr>
+<td width="25%" align="center" valign="top">
+
+### **💻 SOFTWARE ENGINEERING**
+
+<img src="https://img.shields.io/badge/Full_Stack_Dev-Advanced-4CAF50?style=for-the-badge&labelColor=2C3E50"/>
+
+**CAPABILITIES**
+- Frontend Development
+- Backend Integration
+- Database Design
+- API Development
+- Code Optimization
+
+</td>
+<td width="25%" align="center" valign="top">
+
+### **🤖 AI & MACHINE LEARNING**
+
+<img src="https://img.shields.io/badge/AI/ML_Engineering-Growing-9C27B0?style=for-the-badge&labelColor=2C3E50"/>
+
+**CAPABILITIES**
+- NLP Applications
+- Chatbot Development
+- ML Model Training
+- Data Processing
+- Algorithm Design
+
+</td>
+<td width="25%" align="center" valign="top">
+
+### **📡 COMMUNICATION SYSTEMS**
+
+<img src="https://img.shields.io/badge/CCE_Fundamentals-Learning-2196F3?style=for-the-badge&labelColor=2C3E50"/>
+
+**CAPABILITIES**
+- Network Protocols
+- Signal Processing
+- IoT Concepts
+- System Architecture
+- Communication Theory
+
+</td>
+<td width="25%" align="center" valign="top">
+
+### **🔐 CYBERSECURITY**
+
+<img src="https://img.shields.io/badge/Security-Exploring-E74C3C?style=for-the-badge&labelColor=2C3E50"/>
+
+**CAPABILITIES**
+- Security Principles
+- Encryption Basics
+- Threat Analysis
+- Secure Coding
+- Authentication Systems
+
+</td>
+</tr>
+</table>
+
+</div>
+
 ---
 
 ## 🚀 Tech Toolkit
