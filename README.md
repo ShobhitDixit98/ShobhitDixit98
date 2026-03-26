@@ -37,22 +37,42 @@ AI/ML Engineer with **nearly 4 years** of production experience architecting and
 ```mermaid
 timeline
     title Professional Journey
+
     section Research Experience
-    Sep 2025 : Data Science Researcher
-             : Capital One Financial
-             : Transformer fraud detection
-             : RAG compliance systems
-    section Professional Experience
-    Aug 2020 : Software Engineer
-             : Mobileum
-             : Deployment and Migrating Production Systems
-             : On-site Client Management (Saudi Arabia)
-             : 30TB Telecom data
-    section Education
-    Mar 2026 : MS AI ML
+    Sep 2025 : Data Science Research Assistant (Co-op)
              : Drexel University
-    Jul 2021 : BTech IT
-             : KIET Ghaziabad
+             : Large-scale Reddit Data Analysis (>2TB)
+             : NLP & Toxicity Modeling (Detoxify, Transformers)
+             : Community Behavior & Attrition Analysis
+             : Built Scalable Data Pipelines (HPC + Python)
+
+    section Professional Experience
+    Oct 2021 : Software Engineer
+             : Mobileum Technologies
+             : Managed Production Systems (Linux/Solaris)
+             : Led Server Migrations with 98.8% Uptime
+             : Automated Monitoring using Python & Bash
+             : Reduced Network Congestion by 23%
+             : Processed 30TB+ Telecom Data Pipelines
+             : Built anomaly detection logic using statistical patterns & vector analysis
+             : Applied data-driven insights to optimize network performance and alerting
+             : Worked with SQL-based data analysis for large-scale telecom datasets
+             : Integrated CRM data with ML-driven targeting for 100K+ users
+             : On-site Client Collaboration (Saudi Arabia)
+
+    section Projects
+    2025 : AI Projects Portfolio
+         : Credit Card Fraud Detection (Cost Optimization)
+         : Deepfake Detection (EfficientNet, 95.9% Accuracy)
+         : LabelSense AI (NLP + CV, 94.3% Accuracy)
+         : MIQA - AI-powered Analytics Platform (AWS + LLMs)
+
+    section Education
+    Mar 2026 : MS in Artificial Intelligence & Machine Learning
+             : Drexel University (GPA: 3.92/4.0)
+
+    Jul 2021 : B.Tech in Information Technology
+             : KIET Group of Institutions
 ```
 
 ## 📬 Get in Touch
