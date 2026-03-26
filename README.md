@@ -243,11 +243,12 @@ timeline
 <img src="https://img.shields.io/badge/Data_Science-Advanced-FF9800?style=for-the-badge&labelColor=2C3E50"/>
 
 **CAPABILITIES**
-- Data Cleaning & Preprocessing
-- Exploratory Data Analysis (EDA)
+- Data Cleaning
+- Data Preprocessing
+- Data Visualization (Matplotlib, Power BI)
 - Statistical Analysis
 - Predictive Modeling
-- Data Visualization (Matplotlib, Power BI)
+- Exploratory Data Analysis (EDA)
 
 </td>
 <td width="25%" align="center" valign="top">
@@ -259,9 +260,9 @@ timeline
 **CAPABILITIES**
 - ETL Pipelines
 - Data Pipelines (AWS, SQL)
-- Distributed Systems Basics
 - API Data Integration
 - Performance Optimization
+- Distributed Systems Basics
 
 </td>
 <td width="25%" align="center" valign="top">
