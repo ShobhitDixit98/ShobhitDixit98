@@ -176,7 +176,6 @@ timeline
 **IDEs & EDITORS**
 
 <img src="https://skillicons.dev/icons?i=vscode,pycharm&theme=dark" />
-
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 
 </td>
@@ -185,7 +184,6 @@ timeline
 **DATABASES**
 
 <img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark" />
-
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 
 </td>
@@ -194,7 +192,6 @@ timeline
 **PLATFORMS**
 
 <img src="https://skillicons.dev/icons?i=linux,windows&theme=dark" />
-
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 
 </td>
