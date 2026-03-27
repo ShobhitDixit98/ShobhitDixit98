@@ -18,7 +18,7 @@
 
 ## 📊 Research Summary
 
-AI/ML Engineer with **nearly 4 years** of production experience architecting and deploying **scalable machine learning** and **generative AI solutions** across different domains. Specialized in building **enterprise-grade ML pipelines**, **real-time inference systems**, and **LLM-powered applications** using PyTorch, TensorFlow, and AWS infrastructure.
+AI/ML Engineer and Data Scientist with **nearly 4 years** of production experience architecting and deploying **scalable machine learning** and **generative AI solutions** across different domains. Specialized in building **enterprise-grade ML pipelines**, **real-time inference systems**, and **LLM-powered applications** using PyTorch, TensorFlow, and AWS infrastructure.
 
 
 **Current Focus:** Retrieval-Augmented Generation (RAG) architectures, semantic search systems, explainable AI frameworks, and containerized ML deployment strategies for enterprise applications.
