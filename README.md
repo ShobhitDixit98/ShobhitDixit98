@@ -16,7 +16,6 @@
 
 ---
 
-> 🎛️ Theme-aware visuals enabled: icon palettes now auto-switch for **Light** and **Dark** GitHub modes for comfortable reading during model training sessions and research deep-work.
 
 ## 📊 Research Summary
 
