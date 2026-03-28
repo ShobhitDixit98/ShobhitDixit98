@@ -8,13 +8,15 @@
 [![Phone](https://img.shields.io/badge/Phone-%2B1%20(215)%20452--9020-25D366?style=flat-square&logo=whatsapp&logoColor=white)](tel:+12154529020)
 [![Location](https://img.shields.io/badge/Location-PA%2C%20USA-0077B5?style=flat-square&logo=google-maps&logoColor=white)](https://www.google.com/maps?q=Pennsylvania,USA)
 
-![Profile Views](https://komarev.com/ghpvc/?username=ShobhitDixit98&color=blueviolet&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=ShobhitDixit98&color=7B61FF&style=flat-square)
 ![GitHub Followers](https://img.shields.io/github/followers/ShobhitDixit98?style=flat-square&logo=github)
 ![GitHub Stars](https://img.shields.io/github/stars/ShobhitDixit98?style=flat-square&logo=github)
 
 </div>
 
 ---
+
+> 🎛️ Theme-aware visuals enabled: icon palettes now auto-switch for **Light** and **Dark** GitHub modes for comfortable reading during model training sessions and research deep-work.
 
 ## 📊 Research Summary
 
@@ -96,7 +98,11 @@ timeline
 ### **💻 PROGRAMMING LANGUAGES**
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,c,cpp,java&theme=dark" /><br/>
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,c,cpp,java&theme=dark">
+<source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python,c,cpp,java&theme=light">
+<img src="https://skillicons.dev/icons?i=python,c,cpp,java&theme=dark" alt="Programming language icons" />
+</picture><br/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
@@ -116,7 +122,11 @@ timeline
 ### **🌐 WEB TECHNOLOGIES**
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark" /><br/>
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=html,css,js,react&theme=dark">
+<source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=html,css,js,react&theme=light">
+<img src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark" alt="Web technology icons" />
+</picture><br/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
@@ -136,7 +146,11 @@ timeline
 ### **🤖 AI/ML & EMERGING TECH**
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,flask,git&theme=dark" /><br/>
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=tensorflow,pytorch,flask,git&theme=dark">
+<source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=tensorflow,pytorch,flask,git&theme=light">
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,flask,git&theme=dark" alt="AI and emerging tech icons" />
+</picture><br/>
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
 <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
@@ -166,7 +180,11 @@ timeline
 
 **VERSION CONTROL**
 
-<img src="https://skillicons.dev/icons?i=git,github&theme=dark" />
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git,github&theme=dark">
+<source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=git,github&theme=light">
+<img src="https://skillicons.dev/icons?i=git,github&theme=dark" alt="Version control icons" />
+</picture>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 
 </td>
@@ -174,7 +192,11 @@ timeline
 
 **IDEs & EDITORS**
 
-<img src="https://skillicons.dev/icons?i=vscode,pycharm&theme=dark" />
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=vscode,pycharm&theme=dark">
+<source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=vscode,pycharm&theme=light">
+<img src="https://skillicons.dev/icons?i=vscode,pycharm&theme=dark" alt="IDE icons" />
+</picture>
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 
 </td>
@@ -182,7 +204,11 @@ timeline
 
 **DATABASES**
 
-<img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark" />
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark">
+<source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=mysql,mongodb&theme=light">
+<img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark" alt="Database icons" />
+</picture>
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 
 </td>
@@ -190,7 +216,11 @@ timeline
 
 **PLATFORMS**
 
-<img src="https://skillicons.dev/icons?i=linux,windows&theme=dark" />
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=linux,windows&theme=dark">
+<source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=linux,windows&theme=light">
+<img src="https://skillicons.dev/icons?i=linux,windows&theme=dark" alt="Platform icons" />
+</picture>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 
 </td>
