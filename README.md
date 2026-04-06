@@ -376,7 +376,7 @@ timeline
 
 Let’s connect and **build intelligent, meaningful, and scalable solutions** together.
 
-> _"Strive not to be a success, but rather to be of value."_ — *Albert Einstein*
+> _"Strive not to be a success, but rather to be of value."_  *Albert Einstein*
 
 <div align="center">
   
