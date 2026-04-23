@@ -40,34 +40,37 @@ timeline
     title Professional Journey
 
     section Research Experience
-    Mar 2026 : Data Science Researcher (AI/ML Co-op)
-             : Computational Social Science Lab, Drexel University
-             : Large-scale Reddit Data Analysis (>2TB)
-             : NLP & Toxicity Modeling (Detoxify, Transformers)
-             : Community Behavior & Attrition Analysis
-             : Built Scalable Data Pipelines (HPC + Python)
+    Sep 2025 - Mar 2026  : Data Science Researcher (AI/ML Co-op)
+                         : Computational Social Science Lab, Drexel University
+                         : Large-scale Reddit Data Analysis (>2TB)
+                         : NLP & Toxicity Modeling (Detoxify, Transformers)
+                         : Community Behavior & Attrition Analysis
+                         : Built Scalable Data Pipelines (HPC + Python)
 
     section Industry Experience
-    Dec 2024 : Software Engineer
-             : Mobileum Technologies
-             : Managed Production Systems (Linux/Solaris)
-             : Led Server Migrations and Deployements with 98.8% Uptime
-             : Automated data workflows and monitoring systems using Python & Bash
-             : Processed and analyzed 30TB+ telecom data using SQL and Python for large-scale data insights
-             : On-site Client Collaboration (Saudi Arabia) 
+    Oct 2021 - Dec 2024  : Software Engineer
+                         : Mobileum Technologies
+                         : Managed Production Systems (Linux/Solaris)
+                         : Led Server Migrations and Deployements with 98.8% Uptime
+                         : Automated data workflows and monitoring systems using Python & Bash
+                         : Processed and analyzed 30TB+ telecom data using SQL and Python for large-scale data insights
+                         : On-site Client Collaboration (Saudi Arabia) 
 
     section Projects
-    2025 : AI Projects
-         : Credit Card Fraud Detection (Cost Optimization)
-         : Deepfake Detection (EfficientNet, 95.9% Accuracy)
-         : LabelSense AI (NLP + CV, 94.3% Accuracy)
-         : MIQA - AI-powered Analytics Platform (AWS + LLMs)
-         : Enterprise AI Knowledge Assistant (LLM + RAG Platform) 
-         : Intelligent Document Processing System 
+    2024 - 2026          : AI Projects
+                         : Credit Card Fraud Detection (Cost Optimization)
+                         : Deepfake Detection (EfficientNet, 95.9% Accuracy)
+                         : LabelSense AI (NLP + CV, 94.3% Accuracy)
+                         : MIQA - AI-powered Analytics Platform (AWS + LLMs)
+                         : Enterprise AI Knowledge Assistant (LLM + RAG Platform) 
+                         : Intelligent Document Processing System 
 
     section Education
     Mar 2026 : MS in Artificial Intelligence & Machine Learning
              : Drexel University (GPA: 3.93/4.0)
+
+    Dec 2024 : Post Graduate Certificate in Machine Learning and Artificial Intelligence
+             : IIT Jodhpur, India
 
     Jul 2021 : B.Tech in Information Technology
              : KIET Group of Institutions
