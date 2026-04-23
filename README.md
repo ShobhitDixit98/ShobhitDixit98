@@ -40,7 +40,7 @@ timeline
     title Professional Journey
 
     section Research Experience
-    Sep 2025 - Mar 2026  : Data Science Researcher (AI/ML Co-op)
+    Sep 2025 - Mar 2026  : Data/ML Engineer - NLP Research & Feature Engineering   (AI/ML Co-op)
                          : Computational Social Science Lab, Drexel University
                          : Large-scale Reddit Data Analysis (>2TB)
                          : NLP & Toxicity Modeling (Detoxify, Transformers)
