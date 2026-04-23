@@ -67,7 +67,7 @@ timeline
 
     section Education
     Mar 2026 : MS in Artificial Intelligence & Machine Learning
-             : Drexel University GPA: 3.93/4.0
+             : Drexel University
              : GPA: 3.93/4.0
 
     Dec 2024 : Post Graduate Certificate in Machine Learning & Artificial Intelligence
