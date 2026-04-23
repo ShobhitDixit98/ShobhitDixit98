@@ -69,7 +69,7 @@ timeline
     Mar 2026 : MS in Artificial Intelligence & Machine Learning
              : Drexel University (GPA: 3.93/4.0)
 
-    Dec 2024 : Post Graduate Certificate in Machine Learning and Artificial Intelligence
+    Dec 2024 : Post Graduate Certificate in Machine Learning & Artificial Intelligence
              : IIT Jodhpur, India
 
     Jul 2021 : B.Tech in Information Technology
